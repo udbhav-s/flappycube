@@ -1,0 +1,9 @@
+[package]
+name = "hello_ggez"
+version = "0.1.0"
+authors = ["Udbhav S: udbhavs123@gmail.com"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.5.0-rc.0"
+rand = "0.6.0"
